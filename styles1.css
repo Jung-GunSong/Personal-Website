@@ -1,0 +1,26 @@
+body {
+    background-color:rgb(195, 251, 233)
+}
+
+#landing-content{
+    margin-top: 100px;
+}
+
+#author-pic{
+    margin-top: 80px;
+}
+
+#bingsu-pic{
+    width:220px;
+    height: auto;
+}
+
+#front-page-img{
+    border-radius: 50%;
+
+}
+
+#contact-me-img{
+    width:250px;
+    height:auto;
+}
